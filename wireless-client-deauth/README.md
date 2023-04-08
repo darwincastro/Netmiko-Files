@@ -8,6 +8,8 @@ This is a small script used to deauthenticate wireless clients connected to Cisc
 
 The script is equivalent to the Cisco C9800 CLI `wireless client mac-address &lt;mac address> deauthenticate`
 
+*deauth_client.py* will create a file in the working directory in .txt format.
+
 ## Using the script
 
 ### cisco=
